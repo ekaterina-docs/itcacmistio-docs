@@ -28,9 +28,7 @@ kubectl create namespace itcacm-citadel-system
 kubectl get namespaces | grep itcacm-citadel-system
 ```
 
-### Шаг 2. Настройка доступа к приватному registry (опционально)
-
-> **Примечание:** Пропустите этот шаг, если образы оператора доступны публично.
+### Шаг 2. Настройка доступа к приватному registry
 
 Создайте секрет с учётными данными для Docker registry:
 

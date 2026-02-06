@@ -67,4 +67,3 @@
 
 - [Принцип работы](architecture.md)
 - [Установка оператора](installation.md)
-- [Устранение неполадок](troubleshooting.md) <!-- TODO: создать -->
